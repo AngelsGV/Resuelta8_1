@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab8fe7a-b9b5-4119-b5b5-04d69b01fc39" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Resuelta8_2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resuelta8_2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resuelta8_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resuelta8_2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resuelta8_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resuelta8_2/Resuelta8_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HoraExacta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hora/Hora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramaPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HoraExacta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hora/HoraExacta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +35,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/win11/IdeaProjects/Resuelta8_1",
-    "onboarding.tips.debug.path": "C:/Users/win11/IdeaProjects/Resuelta8_1/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/win11/IdeaProjects/Resuelta8_1&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/win11/IdeaProjects/Resuelta8_1/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\IdeaProjects\Resuelta8_1\src" />
+      <recent name="C:\Users\win11\IdeaProjects\Resuelta8_1\src\Hora" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Hora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hora" />
+      <module name="Resuelta8_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hora" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,11 +89,38 @@
       <option name="project" value="LOCAL" />
       <updated>1710689236288</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1710690541727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710690541727</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1710690571872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710690571872</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hora/HoraExacta.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

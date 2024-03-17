@@ -1,3 +1,5 @@
+package Hora1;
+
 public class HoraExacta extends Hora{
     protected int segundos;
     public HoraExacta(int hora, int minutos, int segundos){
