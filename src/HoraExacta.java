@@ -14,7 +14,7 @@ public class HoraExacta extends Hora{
             this.segundos = segundos;
             correcto = true;
         }
-        return correcto,
+        return correcto;
     }
     @Override
     public void inc(){
